@@ -22,7 +22,6 @@ using System.Threading.Tasks;
 
 // https://stackoverflow.com/a/2784979
 
-namespace Client.Util;
 
 public delegate void MessageAvailableEventHandler(object sender, MessageAvailableEventArgs e);
 
